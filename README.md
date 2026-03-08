@@ -1,5 +1,5 @@
-MARTINEZ, Jireh Gem D.
-3 BSCS-A
+Nebrija, Ryan C.
+4 BSCS-A
 
 ![mealy machine](mealy.png)
 
