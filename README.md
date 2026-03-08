@@ -3,6 +3,5 @@ Nebrija, Ryan C.
 
 ![mealy machine](mealy.png)
 
-![moore machine](moore.png)
 
 
